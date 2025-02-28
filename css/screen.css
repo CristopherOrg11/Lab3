@@ -208,18 +208,16 @@ label {
 /* ===== STATE STYLES ======= */
 
 body{
-	.cedarville-cursive-regular {
 	font-family: "Cedarville Cursive", cursive;
 	font-weight: 400;
 	font-style: normal;
-	color: #c69eff
-}
+	color: #999999
 }
 
 form{
 	display: flex;
 	flex-direction: column;
-	background: #69bcff
+	background: #ffffff
 }
 
 label{
