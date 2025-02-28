@@ -211,7 +211,7 @@ body{
 	background-color: #ababab;
 	font-family: "Cedarville Cursive", cursive;
 	text-align: center;
-	color: #999999
+	color: #999999;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -248,10 +248,10 @@ h1{
 }
 
 input[type="submit"]{
-	background-color: #999999
+	background-color: #999999;
 	color: #ffffff;
 	font-size: 1rem;
-	padding: 0,8rem;
+	padding: 0.8rem;
 	width: 100%;
 	border: none;
 	border-radius: 100px;
@@ -273,7 +273,7 @@ input[type="checkbox"]{
 	justify-content: center;
 	flex-direction: column;
 	width: 100%
-	max-width: 400 px;
+	max-width: 300px;
 }
 
 form p {
